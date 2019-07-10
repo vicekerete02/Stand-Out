@@ -1,0 +1,91 @@
+/*background color*/
+.header-top,
+.hb-right ul li.cart_btn span,
+.slider-content a,
+a.expand-video,
+.abt-left-content a,
+.cs-price,
+.tst-carousel .owl-dots .active,
+.blog-carousel .owl-nav div:hover,
+.course-carousel .owl-nav div:hover,
+.teacher-carousel .owl-nav div:hover,
+.hb-s2-right li a:hover,
+.hb-s2-right li a.active,
+.form-input button,
+.abt2-content a:hover,
+.commn-carousel .owl-dots .active,
+.menu-s2.main-menu nav >ul >li >a:before,
+.form-submit button,
+.hb-s3-right li a,
+.body_overlay,
+.crumb-content p:before,
+.befr-themeoclor.teacher-area:before,
+.wd-offer a,
+.subscribe form button,
+.leave-comment-area form button,
+.view-more a span,
+.widget-search form button:hover,
+.cs-post-share .tags ul li a:hover,
+.widget-tags li a:hover,
+.contact-info:before,
+.contact-form form button{
+    background-color: #6c5ce7;
+}
+
+/*text color*/
+.main-menu nav ul li>a:hover,
+.main-menu nav ul li.active>a,
+.slider-content h2 span,
+.section-title h3 span,
+a.expand-video:hover,
+.section-title h2 span,
+.tch-content span,
+.tst-carousel .owl-dots .active,
+.blog-content span,
+.fwidget-title,
+.twitter-post a,
+.address h2,
+.footer-bottom p span,
+.twt-meta h2 i,
+span.post-date i,
+.widget-company .social li a:hover,
+.tst-content .section-title span,
+.blog-content h2 a:hover,
+.hero-content h2 span,
+.section-title-s2 h2,
+.crumb-content h4 span,
+.cs-post-author span,
+.post-author-info .social li a:hover,
+.w-cs-single h4 a:hover,
+.view-more a:hover,
+.widget-search form button
+.widget-category .list li a:hover,
+.blog-top-meta ul li span,
+.cs-m-text h2 a:hover,
+.cs-cmnt-meta ul li,
+.cs-cmnt-meta>a,
+.cnt-info ul.address li i,
+.cnt-addres-single .icon{
+    color: #6c5ce7;
+}
+
+/*exceptional/single*/
+
+.cs-price:before{
+	border-left-color: #6c5ce7;
+}
+
+.tst-carousel .owl-dots .active,
+.tch-left-thumb:before,
+.leave-comment-area form input:focus,
+.leave-comment-area form textarea:focus{
+	border-color: #6c5ce7;
+}
+.header-three .menu-s2.main-menu nav >ul >li >a:before{
+	border-bottom-color: #6c5ce7;
+}
+
+/*background hover color*/
+.abt-left-content a:hover{
+    background: #614fe6;
+}

@@ -1,0 +1,122 @@
+.navbar {
+    background:rgb(31,29,29) !important;
+}
+
+.nav-link {
+    color: #fff !important;
+}
+
+/* styling for header section */
+#header {
+    background:linear-gradient(rgba(11, 11, 71, 0.55),rgba(12, 12, 46, 0.55)),url('images/hero-bg (2).jpg');
+    background-size:cover;
+    height:600px;
+    background-position:center center;
+    background-attachment:fixed; 
+}
+.headerText {
+    padding-top:170px;
+    font-size:40px;
+    font-weight:500;
+}
+@media(max-width:768px) {
+    #header {
+        height:600px;
+        padding-top:110px;
+    }
+}
+@media(max-width:425px) {
+    .headerText {
+        padding-top:110px;
+    }
+    .headerSection {
+        text-align:center !important;
+    }
+}
+/* styling for header section ends here */
+
+
+/* styling for about section starts here */
+.about {
+    font-family:cursive;
+    font-weight:700;
+    color:rgb(100, 34, 10);
+}
+.Victory{
+    padding-left:60px;
+}
+
+/* styling for about section ends here */
+
+/* styling for get started section starts here */
+#started {
+     background-color:rgb(231, 231, 29);
+     text-align:center;
+     height:auto;
+}
+/* styling for getting started end here*/
+
+
+/* styling for question starts here */
+#question {
+    background-color: black;
+    height:auto;
+    color:white !important;
+    text-align:center;
+}
+.form-control {
+    background: transparent !important;
+}
+.Good {
+    height:30px;
+}
+.Great {
+    height:210px; 
+}
+.Victo {
+    height:35px;
+    border:2px solid coral;
+    color:#ffff;
+    font-size:15px;
+    margin-top:50px;
+
+}
+
+.vict {
+    color:whitesmoke;
+    font-size:19px; 
+    font-weight:bold;
+}
+/* styling for question ends here */
+
+/* styling for Touch starts here */
+#Touch {
+    height:550px;
+    text-align:center !important;
+    background:linear-gradient(rgba(11, 11, 71, 0.55),rgba(12, 12, 46, 0.55)),url('images/take-toure-bg.png');
+    background-size:cover;
+    background-position:center center;
+    background-attachment:fixed; 
+}
+.Get {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:white;
+    font-size: 70px;
+    font-weight: bolder;
+    padding-top: 75px;
+
+}
+.Clients {
+    color:rgb(94, 93, 93);
+    font-size:15px;
+}
+.Email {
+    background-color: rgb(192, 72, 28);
+    color:white;
+    height:90px;
+    border-radius:15px;
+    font-size:50px;
+    font-weight: bolder;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+/* styling for Touch ends here */
